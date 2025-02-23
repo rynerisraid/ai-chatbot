@@ -36,6 +36,20 @@
       "when": 1733945232355,
       "tag": "0004_odd_slayback",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1740291450311,
+      "tag": "0005_motionless_talon",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1740291554872,
+      "tag": "0006_sweet_spyke",
+      "breakpoints": true
     }
   ]
 }
